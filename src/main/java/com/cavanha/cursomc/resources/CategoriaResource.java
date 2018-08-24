@@ -24,5 +24,6 @@ public class CategoriaResource {
 		lista.add(cat2);
 		
 		return lista;
-	}
+	}//para testar:
+	 //http://localhost:8080/categorias
 }
